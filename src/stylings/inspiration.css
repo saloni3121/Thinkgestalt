@@ -1,0 +1,30 @@
+.inspiration-container {
+  background: #04db86;
+  margin-top: 100px;
+  padding: 40px;
+}
+.inspiration-text1 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 33px;
+  /* identical to box height */
+
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+
+  color: #171717;
+}
+.inspiration-text2 {
+  font-family: Jost;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 120%;
+  /* identical to box height, or 96px */
+
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+
+  color: #0a0a0a;
+}

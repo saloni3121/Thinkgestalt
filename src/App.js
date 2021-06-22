@@ -4,6 +4,7 @@ import WhyUs from './components/WhyUs';
 import CaseStudies from './components/CaseStudies';
 import ExploreServices from './components/ExploreServices';
 import './App.css'
+import Inspirations from './components/Inspirations';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Hero/>
       <WhyUs/>
       <CaseStudies />
+      <Inspirations />
       <ExploreServices/>
     </div>
   );
