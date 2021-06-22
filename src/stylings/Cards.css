@@ -1,0 +1,25 @@
+
+    .root{
+      max-width: 300;
+    }
+    .media{
+      height: 340;
+      width: 300;
+    }
+    .subsection{
+      height: 90;
+    }
+    .lmbutton{
+      margin-left: 10;
+      font-size: 15;
+      font-weight: 500;
+    }
+    .roundbutton{
+      margin-left: '60px';
+      font-size: 35;
+      font-weight: 600;
+      background-color: '#04DB86';
+      border-radius: '50px';
+      height: 65;
+      width: 30;
+    }

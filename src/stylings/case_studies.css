@@ -1,0 +1,144 @@
+.case-studies-container{
+    background: #F6FBF9;
+    padding-left:40px;
+    padding-right:40px;
+    margin-top:70px
+}
+
+.case-studies-p{
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 33px;
+letter-spacing: 0.12em;
+text-transform: uppercase;
+color: #171717;
+}
+
+.case-studies-heading{
+font-family: Jost;
+font-style: normal;
+font-weight: 600;
+font-size: 80px;
+line-height: 120%;
+letter-spacing: 0.12em;
+text-transform: uppercase;
+color: #0A0A0A;
+}
+
+.case-studies-desc{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 36px;
+    
+    color: #171717;
+}
+
+
+
+.company-name-1{
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+
+text-align: right;
+letter-spacing: 0.08em;
+text-transform: uppercase;
+
+color: #04DB86;
+}
+
+.company-desc-1{
+    font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 46px;
+text-align: right;
+text-transform: capitalize;
+
+color: #171717;
+}
+.company-name-2{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+    /* identical to box height */
+    
+    text-align: left;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    
+    color: #04DB86;
+}
+
+.company-desc-2{
+    font-family: Jost;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 46px;
+    text-transform: capitalize;
+    
+    color: #171717;
+}
+
+.company-name-3{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+
+text-align: right;
+letter-spacing: 0.08em;
+text-transform: uppercase;
+
+color: #04DB86;
+}
+
+.company-desc-3{
+    font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 46px;
+text-align: right;
+text-transform: capitalize;
+
+color: #171717;
+}
+.company-name-4{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+
+text-align: right;
+letter-spacing: 0.08em;
+text-transform: uppercase;
+
+color: #04DB86;
+}
+
+.company-desc-4{
+    font-family: Jost;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 46px;
+    text-transform: capitalize;
+    
+    color: #171717;
+}

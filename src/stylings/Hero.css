@@ -1,0 +1,17 @@
+.container{
+    background-color: #0A0A0A;
+    width: 100%;
+    height: 800px;
+    /* padding: 0; */
+    margin: 0;
+    background-image: url('../images/Artwork.svg');
+}
+.container>img{
+    width: 1520px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.MuiButton-root{
+    background-color: #04DB86;
+    color: #fff;
+}
